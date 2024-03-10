@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from joyrun</name>
+    <trkseg>
+      <trkpt lat="45.738287" lon="126.63507">
+        <time>2019-07-09T14:54:26Z</time>
+      </trkpt>
+      <trkpt lat="45.738287" lon="126.63507">
+        <time>2019-07-09T14:54:31Z</time>
+      </trkpt>
+      <trkpt lat="45.738301" lon="126.635074">
+        <time>2019-07-09T14:54:36Z</time>
+      </trkpt>
+      <trkpt lat="45.738315" lon="126.635078">
+        <time>2019-07-09T14:54:41Z</time>
+      </trkpt>
+      <trkpt lat="45.738363" lon="126.634994">
+        <time>2019-07-09T14:54:46Z</time>
+      </trkpt>
+      <trkpt lat="45.738411" lon="126.63491">
+        <time>2019-07-09T14:54:51Z</time>
+      </trkpt>
+      <trkpt lat="45.738459" lon="126.634826">
+        <time>2019-07-09T14:54:56Z</time>
+      </trkpt>
+      <trkpt lat="45.738507" lon="126.634742">
+        <time>2019-07-09T14:55:01Z</time>
+      </trkpt>
+      <trkpt lat="45.738555" lon="126.634658">
+        <time>2019-07-09T14:55:06Z</time>
+      </trkpt>
+      <trkpt lat="45.738603" lon="126.634574">
+        <time>2019-07-09T14:55:11Z</time>
+      </trkpt>
+      <trkpt lat="45.738479" lon="126.634425">
+        <time>2019-07-09T14:55:16Z</time>
+      </trkpt>
+      <trkpt lat="45.7384" lon="126.63445">
+        <time>2019-07-09T14:55:21Z</time>
+      </trkpt>
+      <trkpt lat="45.738357" lon="126.634445">
+        <time>2019-07-09T14:55:26Z</time>
+      </trkpt>
+      <trkpt lat="45.738277" lon="126.634426">
+        <time>2019-07-09T14:55:31Z</time>
+      </trkpt>
+      <trkpt lat="45.738177" lon="126.634428">
+        <time>2019-07-09T14:55:36Z</time>
+      </trkpt>
+      <trkpt lat="45.738122" lon="126.634389">
+        <time>2019-07-09T14:55:41Z</time>
+      </trkpt>
+      <trkpt lat="45.738122" lon="126.634389">
+        <time>2019-07-09T14:55:51Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

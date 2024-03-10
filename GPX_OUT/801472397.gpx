@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from joyrun</name>
+    <trkseg>
+      <trkpt lat="30.243105" lon="119.974148">
+        <time>2023-05-16T13:01:22Z</time>
+      </trkpt>
+      <trkpt lat="30.243102" lon="119.97414">
+        <time>2023-05-16T13:01:27Z</time>
+      </trkpt>
+      <trkpt lat="30.243094" lon="119.974132">
+        <time>2023-05-16T13:01:32Z</time>
+      </trkpt>
+      <trkpt lat="30.243063" lon="119.974059">
+        <time>2023-05-16T13:01:37Z</time>
+      </trkpt>
+      <trkpt lat="30.242998" lon="119.973991">
+        <time>2023-05-16T13:01:42Z</time>
+      </trkpt>
+      <trkpt lat="30.242997" lon="119.973968">
+        <time>2023-05-16T13:01:47Z</time>
+      </trkpt>
+      <trkpt lat="30.243078" lon="119.973944">
+        <time>2023-05-16T13:01:52Z</time>
+      </trkpt>
+      <trkpt lat="30.243079" lon="119.973905">
+        <time>2023-05-16T13:01:57Z</time>
+      </trkpt>
+      <trkpt lat="30.243039" lon="119.973903">
+        <time>2023-05-16T13:02:02Z</time>
+      </trkpt>
+      <trkpt lat="30.243031" lon="119.97392">
+        <time>2023-05-16T13:02:07Z</time>
+      </trkpt>
+      <trkpt lat="30.243042" lon="119.973913">
+        <time>2023-05-16T13:02:12Z</time>
+      </trkpt>
+      <trkpt lat="30.243028" lon="119.973914">
+        <time>2023-05-16T13:02:17Z</time>
+      </trkpt>
+      <trkpt lat="30.24303" lon="119.973921">
+        <time>2023-05-16T13:02:22Z</time>
+      </trkpt>
+      <trkpt lat="30.243038" lon="119.973926">
+        <time>2023-05-16T13:02:27Z</time>
+      </trkpt>
+      <trkpt lat="30.243013" lon="119.973902">
+        <time>2023-05-16T13:02:32Z</time>
+      </trkpt>
+      <trkpt lat="30.242975" lon="119.973892">
+        <time>2023-05-16T13:02:37Z</time>
+      </trkpt>
+      <trkpt lat="30.242942" lon="119.973885">
+        <time>2023-05-16T13:02:42Z</time>
+      </trkpt>
+      <trkpt lat="30.242988" lon="119.973866">
+        <time>2023-05-16T13:02:47Z</time>
+      </trkpt>
+      <trkpt lat="30.243034" lon="119.973871">
+        <time>2023-05-16T13:02:52Z</time>
+      </trkpt>
+      <trkpt lat="30.243006" lon="119.973825">
+        <time>2023-05-16T13:02:57Z</time>
+      </trkpt>
+      <trkpt lat="30.243019" lon="119.973819">
+        <time>2023-05-16T13:03:02Z</time>
+      </trkpt>
+      <trkpt lat="30.243002" lon="119.973854">
+        <time>2023-05-16T13:03:07Z</time>
+      </trkpt>
+      <trkpt lat="30.243041" lon="119.973812">
+        <time>2023-05-16T13:03:12Z</time>
+      </trkpt>
+      <trkpt lat="30.24306" lon="119.973826">
+        <time>2023-05-16T13:03:17Z</time>
+      </trkpt>
+      <trkpt lat="30.243029" lon="119.973855">
+        <time>2023-05-16T13:03:22Z</time>
+      </trkpt>
+      <trkpt lat="30.242995" lon="119.973836">
+        <time>2023-05-16T13:03:27Z</time>
+      </trkpt>
+      <trkpt lat="30.242951" lon="119.973917">
+        <time>2023-05-16T13:03:32Z</time>
+      </trkpt>
+      <trkpt lat="30.242996" lon="119.97389">
+        <time>2023-05-16T13:03:37Z</time>
+      </trkpt>
+      <trkpt lat="30.243075" lon="119.973824">
+        <time>2023-05-16T13:03:42Z</time>
+      </trkpt>
+      <trkpt lat="30.24307" lon="119.973835">
+        <time>2023-05-16T13:03:47Z</time>
+      </trkpt>
+      <trkpt lat="30.243082" lon="119.973769">
+        <time>2023-05-16T13:03:52Z</time>
+      </trkpt>
+      <trkpt lat="30.243068" lon="119.973827">
+        <time>2023-05-16T13:03:57Z</time>
+      </trkpt>
+      <trkpt lat="30.243069" lon="119.973806">
+        <time>2023-05-16T13:04:02Z</time>
+      </trkpt>
+      <trkpt lat="30.243066" lon="119.973776">
+        <time>2023-05-16T13:04:07Z</time>
+      </trkpt>
+      <trkpt lat="30.242943" lon="119.973925">
+        <time>2023-05-16T13:04:12Z</time>
+      </trkpt>
+      <trkpt lat="30.24282" lon="119.974074">
+        <time>2023-05-16T13:04:22Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
