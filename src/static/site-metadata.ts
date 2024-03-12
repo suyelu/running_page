@@ -17,11 +17,11 @@ const data: ISiteMetadataResult = {
   navLinks: [
     {
       name: 'Blog',
-      url: 'https:suyelu.pro',
+      url: 'https://suyelu.pro',
     },
     {
       name: 'About',
-      url: 'https:suyelu.pro',
+      url: 'https://suyelu.pro',
     },
   ],
 };
